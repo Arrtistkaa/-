@@ -1,5 +1,10 @@
 <!DOCTYPE HTML>
 <html>
+ <head>
+  <meta charset="utf-8">
+  <title>Стили</title>
+  <link rel="stylesheet" href="">
+ </head>
  <body>
   <div class="main">
     <span class="stand"></span>
