@@ -6,6 +6,7 @@
   <link rel="stylesheet" href="???">
  </head>
  <body>
+ <p>это не мой код!:(</p>
   <div class="main">
     <span class="stand"></span>
     <div class="cat">
