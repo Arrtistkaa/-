@@ -42,6 +42,7 @@
      </div>
    </div>
   </div>
+  <style>
  $pink: #fd6e72;
 $purple: #745260;
 $teal: #abe7db;
@@ -346,5 +347,6 @@ body {
         transform: rotate(-20deg);
     }
 }
+ </style>
  </body>
 </html>
