@@ -43,6 +43,7 @@
      </div>
    </div>
   </div>
+   </body>
   <style>
  $pink: #fd6e72;
 $purple: #745260;
@@ -349,5 +350,5 @@ body {
     }
 }
  </style>
- </body>
+
 </html>
